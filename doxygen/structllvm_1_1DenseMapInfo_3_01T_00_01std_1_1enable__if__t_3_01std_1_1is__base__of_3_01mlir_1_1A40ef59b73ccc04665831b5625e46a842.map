@@ -1,0 +1,3 @@
+<map id="llvm::DenseMapInfo&lt; T, std::enable_if_t&lt; std::is_base_of&lt; mlir::Attribute, T &gt;::value &gt; &gt;" name="llvm::DenseMapInfo&lt; T, std::enable_if_t&lt; std::is_base_of&lt; mlir::Attribute, T &gt;::value &gt; &gt;">
+<area shape="rect" id="node2" href="$structllvm_1_1DenseMapInfo_3_01mlir_1_1Attribute_01_4.html" title="llvm::DenseMapInfo\l\&lt; mlir::Attribute \&gt;" alt="" coords="8,5,160,47"/>
+</map>

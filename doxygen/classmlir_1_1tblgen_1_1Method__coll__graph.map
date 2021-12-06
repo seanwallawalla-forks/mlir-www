@@ -1,0 +1,7 @@
+<map id="mlir::tblgen::Method" name="mlir::tblgen::Method">
+<area shape="rect" id="node2" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="mlir::tblgen::ClassDeclaration\lBase\&lt; ClassDeclaration::Method \&gt;" alt="" coords="661,5,912,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1tblgen_1_1ClassDeclaration.html" title="A class declaration is a class element that appears as part of its declaration. " alt="" coords="5,15,220,42"/>
+<area shape="rect" id="node4" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="Base class for class declarations. " alt="" coords="269,37,484,79"/>
+<area shape="rect" id="node5" href="$classmlir_1_1tblgen_1_1MethodSignature.html" title="This class contains the signature of a C++ method, including the return type. " alt="" coords="679,71,894,98"/>
+<area shape="rect" id="node6" href="$classmlir_1_1tblgen_1_1MethodBody.html" title="This class contains the body of a C++ method. " alt="" coords="693,122,880,149"/>
+</map>

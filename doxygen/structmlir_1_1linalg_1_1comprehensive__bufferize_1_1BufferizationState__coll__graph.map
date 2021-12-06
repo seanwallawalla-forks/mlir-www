@@ -1,0 +1,13 @@
+<map id="mlir::linalg::comprehensive_bufferize::BufferizationState" name="mlir::linalg::comprehensive_bufferize::BufferizationState">
+<area shape="rect" id="node2" href="$classmlir_1_1linalg_1_1comprehensive__bufferize_1_1BufferizationAliasInfo.html" title="The BufferizationAliasInfo class maintains a list of buffer aliases and equivalence classes to suppor..." alt="" coords="768,5,1003,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1OpBuilder.html" title="This class helps build Operations. " alt="" coords="825,71,945,98"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Builder.html" title="This class is a general helper class for creating context&#45;global objects like types, attributes, and affine expressions. " alt="" coords="298,71,401,98"/>
+<area shape="rect" id="node5" href="$classmlir_1_1MLIRContext.html" title="MLIRContext is the top&#45;level object for a collection of MLIR operations. " alt="" coords="5,71,143,98"/>
+<area shape="rect" id="node6" href="$classmlir_1_1BlockAndValueMapping.html" title="mlir::BlockAndValueMapping" alt="" coords="781,122,989,149"/>
+<area shape="rect" id="node7" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; StringRef,\l std::unique_ptr\&lt; mlir\l::linalg::comprehensive\l_bufferize::DialectBufferization\lState \&gt; \&gt;" alt="" coords="774,173,997,258"/>
+<area shape="rect" id="node8" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="244,195,455,236"/>
+<area shape="rect" id="node9" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::Operation *\&gt;" alt="" coords="811,283,959,324"/>
+<area shape="rect" id="node10" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="275,271,423,312"/>
+<area shape="rect" id="node11" href="$structmlir_1_1linalg_1_1comprehensive__bufferize_1_1BufferizationOptions.html" title="Options for ComprehensiveBufferize. " alt="" coords="772,409,999,451"/>
+<area shape="rect" id="node15" href="$classunsigned.html" title="unsigned" alt="" coords="309,542,390,569"/>
+</map>

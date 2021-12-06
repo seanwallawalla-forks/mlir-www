@@ -1,0 +1,14 @@
+<map id="mlir::tblgen::ClassDeclaration" name="mlir::tblgen::ClassDeclaration">
+<area shape="rect" id="node2" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="mlir::tblgen::ClassDeclaration\lBase\&lt; ClassDeclaration::ExtraClass\lDeclaration \&gt;" alt="" coords="729,114,985,170"/>
+<area shape="rect" id="node4" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="mlir::tblgen::ClassDeclaration\lBase\&lt; ClassDeclaration::Field \&gt;" alt="" coords="741,5,973,47"/>
+<area shape="rect" id="node6" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="mlir::tblgen::ClassDeclaration\lBase\&lt; ClassDeclaration::Method \&gt;" alt="" coords="732,308,983,349"/>
+<area shape="rect" id="node9" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="mlir::tblgen::ClassDeclaration\lBase\&lt; ClassDeclaration::UsingDeclaration \&gt;" alt="" coords="700,417,1015,459"/>
+<area shape="rect" id="node11" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="mlir::tblgen::ClassDeclaration\lBase\&lt; ClassDeclaration::Visibility\lDeclaration \&gt;" alt="" coords="735,205,979,261"/>
+<area shape="rect" id="node13" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="Base class for class declarations. " alt="" coords="269,209,484,251"/>
+<area shape="rect" id="node3" href="$classmlir_1_1tblgen_1_1ExtraClassDeclaration.html" title="Unstructured extra class declarations, from TableGen definitions. " alt="" coords="1085,121,1260,163"/>
+<area shape="rect" id="node5" href="$classmlir_1_1tblgen_1_1Field.html" title="This class describes a class field. " alt="" coords="1105,13,1240,39"/>
+<area shape="rect" id="node7" href="$classmlir_1_1tblgen_1_1Method.html" title="Class for holding an op&#39;s method for C++ code emission. " alt="" coords="1096,315,1249,342"/>
+<area shape="rect" id="node8" href="$classmlir_1_1tblgen_1_1Constructor.html" title="mlir::tblgen::Constructor" alt="" coords="1331,315,1511,342"/>
+<area shape="rect" id="node10" href="$classmlir_1_1tblgen_1_1UsingDeclaration.html" title="This class describes a using&#45;declaration for a class. " alt="" coords="1064,425,1281,451"/>
+<area shape="rect" id="node12" href="$classmlir_1_1tblgen_1_1VisibilityDeclaration.html" title="A declaration for the visibility of subsequent declarations. " alt="" coords="1091,212,1254,253"/>
+</map>

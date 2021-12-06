@@ -1,0 +1,31 @@
+<map id="lib/Dialect/Affine/Transforms/AffineLoopNormalize.cpp" name="lib/Dialect/Affine/Transforms/AffineLoopNormalize.cpp">
+<area shape="rect" id="node2" href="$lib_2Dialect_2Affine_2Transforms_2PassDetail_8h.html" title="PassDetail.h" alt="" coords="387,191,489,218"/>
+<area shape="rect" id="node23" href="$AffineOps_8h.html" title="mlir/Dialect/Affine\l/IR/AffineOps.h" alt="" coords="988,184,1128,225"/>
+<area shape="rect" id="node46" href="$Dialect_2Affine_2Passes_8h.html" title="mlir/Dialect/Affine\l/Passes.h" alt="" coords="223,184,363,225"/>
+<area shape="rect" id="node48" href="$Dialect_2Affine_2Utils_8h.html" title="mlir/Dialect/Affine\l/Utils.h" alt="" coords="1889,95,2029,136"/>
+<area shape="rect" id="node3" href="$include_2mlir_2Pass_2Pass_8h.html" title="mlir/Pass/Pass.h" alt="" coords="501,281,628,307"/>
+<area shape="rect" id="node4" href="$BuiltinOps_8h.html" title="mlir/IR/BuiltinOps.h" alt="" coords="1988,370,2136,397"/>
+<area shape="rect" id="node8" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="2799,631,2925,657"/>
+<area shape="rect" id="node12" href="$AnalysisManager_8h.html" title="mlir/Pass/AnalysisManager.h" alt="" coords="921,370,1128,397"/>
+<area shape="rect" id="node16" href="$PassRegistry_8h.html" title="mlir/Pass/PassRegistry.h" alt="" coords="5,549,183,575"/>
+<area shape="rect" id="node18" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="591,370,795,397"/>
+<area shape="rect" id="node5" href="$OpImplementation_8h.html" title="mlir/IR/OpImplementation.h" alt="" coords="2067,459,2270,486"/>
+<area shape="rect" id="node9" href="$CallInterfaces_8h.html" title="mlir/Interfaces/CallInterfaces.h" alt="" coords="1557,459,1780,486"/>
+<area shape="rect" id="node10" href="$CastInterfaces_8h.html" title="mlir/Interfaces/CastInterfaces.h" alt="" coords="2518,459,2745,486"/>
+<area shape="rect" id="node11" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="2769,452,2955,493"/>
+<area shape="rect" id="node6" href="$IR_2BuiltinTypes_8h.html" title="mlir/IR/BuiltinTypes.h" alt="" coords="1843,549,2003,575"/>
+<area shape="rect" id="node7" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="2550,549,2713,575"/>
+<area shape="rect" id="node13" href="$Support_2LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="931,705,1081,732"/>
+<area shape="rect" id="node24" href="$AffineMemoryOpInterfaces_8h.html" title="mlir/Dialect/Affine\l/IR/AffineMemoryOpInterfaces.h" alt="" coords="1011,452,1241,493"/>
+<area shape="rect" id="node25" href="$IR_2AffineMap_8h.html" title="mlir/IR/AffineMap.h" alt="" coords="790,549,937,575"/>
+<area shape="rect" id="node32" href="$Ops_8h.html" title="mlir/Dialect/StandardOps\l/IR/Ops.h" alt="" coords="2407,273,2592,315"/>
+<area shape="rect" id="node42" href="$LoopLikeInterface_8h.html" title="mlir/Interfaces/LoopLike\lInterface.h" alt="" coords="1203,273,1382,315"/>
+<area shape="rect" id="node26" href="$IR_2AffineExpr_8h.html" title="mlir/IR/AffineExpr.h" alt="" coords="383,631,530,657"/>
+<area shape="rect" id="node33" href="$Arithmetic_8h.html" title="mlir/Dialect/Arithmetic\l/IR/Arithmetic.h" alt="" coords="2211,363,2382,404"/>
+<area shape="rect" id="node34" href="$VectorInterfaces_8h.html" title="mlir/Interfaces/VectorInterfaces.h" alt="" coords="1804,459,2043,486"/>
+<area shape="rect" id="node35" href="$Builders_8h.html" title="mlir/IR/Builders.h" alt="" coords="3132,459,3267,486"/>
+<area shape="rect" id="node36" href="$ControlFlowInterfaces_8h.html" title="mlir/Interfaces/ControlFlow\lInterfaces.h" alt="" coords="2295,452,2493,493"/>
+<area shape="rect" id="node37" href="$InferTypeOpInterface_8h.html" title="mlir/Interfaces/InferType\lOpInterface.h" alt="" coords="3187,363,3369,404"/>
+<area shape="rect" id="node49" href="$AffineAnalysis_8h.html" title="mlir/Analysis/AffineAnalysis.h" alt="" coords="2391,191,2607,218"/>
+<area shape="rect" id="node50" href="$Value_8h.html" title="mlir/IR/Value.h" alt="" coords="3473,631,3590,657"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="mlir::python::PyInferTypeOpInterface" name="mlir::python::PyInferTypeOpInterface">
+<area shape="rect" id="node2" href="$classmlir_1_1python_1_1PyConcreteOpInterface.html" title="mlir::python::PyConcrete\lOpInterface\&lt; PyInferTypeOpInterface \&gt;" alt="" coords="459,5,739,47"/>
+<area shape="rect" id="node3" href="$classmlir_1_1python_1_1PyConcreteOpInterface.html" title="CRTP base class for Python classes representing MLIR Op interfaces. " alt="" coords="5,5,224,47"/>
+</map>

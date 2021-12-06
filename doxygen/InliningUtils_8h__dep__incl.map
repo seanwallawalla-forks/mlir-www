@@ -1,0 +1,16 @@
+<map id="include/mlir/Transforms/InliningUtils.h" name="include/mlir/Transforms/InliningUtils.h">
+<area shape="rect" id="node2" href="$AffineOps_8cpp.html" title="lib/Dialect/Affine\l/IR/AffineOps.cpp" alt="" coords="5,95,139,136"/>
+<area shape="rect" id="node3" href="$ArithmeticDialect_8cpp.html" title="lib/Dialect/Arithmetic\l/IR/ArithmeticDialect.cpp" alt="" coords="163,95,347,136"/>
+<area shape="rect" id="node4" href="$BufferizationDialect_8cpp.html" title="lib/Dialect/Bufferization\l/IR/BufferizationDialect.cpp" alt="" coords="371,95,570,136"/>
+<area shape="rect" id="node5" href="$LinalgTypes_8cpp.html" title="lib/Dialect/Linalg\l/IR/LinalgTypes.cpp" alt="" coords="595,95,741,136"/>
+<area shape="rect" id="node6" href="$MathDialect_8cpp.html" title="lib/Dialect/Math/IR\l/MathDialect.cpp" alt="" coords="765,95,907,136"/>
+<area shape="rect" id="node7" href="$MemRefDialect_8cpp.html" title="lib/Dialect/MemRef\l/IR/MemRefDialect.cpp" alt="" coords="931,95,1101,136"/>
+<area shape="rect" id="node8" href="$Dialect_2SCF_2SCF_8cpp.html" title="lib/Dialect/SCF/SCF.cpp" alt="" coords="1125,102,1294,129"/>
+<area shape="rect" id="node9" href="$Dialect_2Shape_2IR_2Shape_8cpp.html" title="lib/Dialect/Shape/IR\l/Shape.cpp" alt="" coords="1319,95,1468,136"/>
+<area shape="rect" id="node10" href="$SPIRVDialect_8cpp.html" title="lib/Dialect/SPIRV/IR\l/SPIRVDialect.cpp" alt="" coords="1492,95,1639,136"/>
+<area shape="rect" id="node11" href="$Ops_8cpp.html" title="lib/Dialect/StandardOps\l/IR/Ops.cpp" alt="" coords="1663,95,1838,136"/>
+<area shape="rect" id="node12" href="$TensorDialect_8cpp.html" title="lib/Dialect/Tensor\l/IR/TensorDialect.cpp" alt="" coords="1862,95,2021,136"/>
+<area shape="rect" id="node13" href="$TosaOps_8cpp.html" title="lib/Dialect/Tosa/IR\l/TosaOps.cpp" alt="" coords="2045,95,2184,136"/>
+<area shape="rect" id="node14" href="$Inliner_8cpp.html" title="lib/Transforms/Inliner.cpp" alt="" coords="2209,102,2394,129"/>
+<area shape="rect" id="node15" href="$InliningUtils_8cpp.html" title="lib/Transforms/Utils\l/InliningUtils.cpp" alt="" coords="2418,95,2566,136"/>
+</map>

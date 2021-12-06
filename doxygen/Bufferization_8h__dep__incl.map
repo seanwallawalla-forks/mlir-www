@@ -1,0 +1,27 @@
+<map id="include/mlir/Dialect/Bufferization/IR/Bufferization.h" name="include/mlir/Dialect/Bufferization/IR/Bufferization.h">
+<area shape="rect" id="node2" href="$InitAllDialects_8h.html" title="include/mlir/InitAllDialects.h" alt="" coords="5,109,212,136"/>
+<area shape="rect" id="node4" href="$BufferizationToMemRef_8cpp.html" title="lib/Conversion/Bufferization\lToMemRef/BufferizationToMemRef.cpp" alt="" coords="237,102,506,143"/>
+<area shape="rect" id="node5" href="$Arithmetic_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Arithmetic\l/Transforms/Bufferize.cpp" alt="" coords="530,102,717,143"/>
+<area shape="rect" id="node6" href="$BufferizationDialect_8cpp.html" title="lib/Dialect/Bufferization\l/IR/BufferizationDialect.cpp" alt="" coords="741,102,940,143"/>
+<area shape="rect" id="node7" href="$BufferizationOps_8cpp.html" title="lib/Dialect/Bufferization\l/IR/BufferizationOps.cpp" alt="" coords="965,102,1143,143"/>
+<area shape="rect" id="node8" href="$BufferDeallocation_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferDeallocation.cpp" alt="" coords="1167,102,1418,143"/>
+<area shape="rect" id="node9" href="$Bufferization_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/Bufferize.cpp" alt="" coords="1442,102,1629,143"/>
+<area shape="rect" id="node10" href="$DependenceAnalysis_8cpp.html" title="lib/Dialect/Linalg\l/Analysis/DependenceAnalysis.cpp" alt="" coords="1653,102,1901,143"/>
+<area shape="rect" id="node11" href="$BufferizableOpInterface_8cpp.html" title="lib/Dialect/Linalg\l/ComprehensiveBufferize\l/BufferizableOpInterface.cpp" alt="" coords="1925,95,2132,151"/>
+<area shape="rect" id="node12" href="$BufferizationInterfaceImpl_8cpp.html" title="lib/Dialect/Linalg\l/ComprehensiveBufferize\l/BufferizationInterfaceImpl.cpp" alt="" coords="2156,95,2379,151"/>
+<area shape="rect" id="node13" href="$ComprehensiveBufferize_8cpp.html" title="lib/Dialect/Linalg\l/ComprehensiveBufferize\l/ComprehensiveBufferize.cpp" alt="" coords="2403,95,2617,151"/>
+<area shape="rect" id="node14" href="$ModuleBufferization_8cpp.html" title="lib/Dialect/Linalg\l/ComprehensiveBufferize\l/ModuleBufferization.cpp" alt="" coords="2641,95,2827,151"/>
+<area shape="rect" id="node15" href="$Linalg_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Bufferize.cpp" alt="" coords="2851,102,3038,143"/>
+<area shape="rect" id="node16" href="$ComprehensiveBufferizePass_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ComprehensiveBufferize\lPass.cpp" alt="" coords="3063,95,3325,151"/>
+<area shape="rect" id="node17" href="$Dialect_2SCF_2SCF_8cpp.html" title="lib/Dialect/SCF/SCF.cpp" alt="" coords="3349,109,3519,136"/>
+<area shape="rect" id="node18" href="$SCF_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/SCF/Transforms\l/Bufferize.cpp" alt="" coords="3543,102,3735,143"/>
+<area shape="rect" id="node19" href="$Shape_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Shape/Transforms\l/Bufferize.cpp" alt="" coords="3759,102,3967,143"/>
+<area shape="rect" id="node20" href="$SparseTensorConversion_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/SparseTensorConversion.cpp" alt="" coords="3991,102,4279,143"/>
+<area shape="rect" id="node21" href="$Dialect_2SparseTensor_2Transforms_2SparseTensorPasses_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/SparseTensorPasses.cpp" alt="" coords="4303,102,4562,143"/>
+<area shape="rect" id="node22" href="$Sparsification_8cpp.html" title="lib/Dialect/SparseTensor\l/Transforms/Sparsification.cpp" alt="" coords="4587,102,4804,143"/>
+<area shape="rect" id="node23" href="$StandardOps_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/Bufferize.cpp" alt="" coords="4829,102,5015,143"/>
+<area shape="rect" id="node24" href="$FuncBufferize_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/FuncBufferize.cpp" alt="" coords="5039,102,5255,143"/>
+<area shape="rect" id="node25" href="$TensorConstantBufferize_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/TensorConstantBufferize.cpp" alt="" coords="5280,102,5567,143"/>
+<area shape="rect" id="node26" href="$Tensor_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Tensor\l/Transforms/Bufferize.cpp" alt="" coords="5591,102,5778,143"/>
+<area shape="rect" id="node3" href="$Registration_8cpp.html" title="lib/CAPI/Registration\l/Registration.cpp" alt="" coords="31,199,186,240"/>
+</map>

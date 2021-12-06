@@ -1,0 +1,7 @@
+<map id="mlir::detail::AffineMapStorage" name="mlir::detail::AffineMapStorage">
+<area shape="rect" id="node2" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="343,5,500,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; mlir\l::AffineExpr \&gt;" alt="" coords="343,71,499,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; T \&gt;" alt="" coords="5,78,159,105"/>
+<area shape="rect" id="node5" href="$classmlir_1_1MLIRContext.html" title="MLIRContext is the top&#45;level object for a collection of MLIR operations. " alt="" coords="353,137,490,163"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="381,191,462,218"/>
+</map>

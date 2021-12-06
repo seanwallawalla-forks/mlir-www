@@ -1,0 +1,11 @@
+<map id="include/mlir/Dialect/Bufferization/Transforms/Bufferize.h" name="include/mlir/Dialect/Bufferization/Transforms/Bufferize.h">
+<area shape="rect" id="node2" href="$Arithmetic_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Arithmetic\l/Transforms/Bufferize.cpp" alt="" coords="5,109,192,151"/>
+<area shape="rect" id="node3" href="$Bufferization_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/Bufferize.cpp" alt="" coords="216,109,403,151"/>
+<area shape="rect" id="node4" href="$Linalg_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Bufferize.cpp" alt="" coords="427,109,613,151"/>
+<area shape="rect" id="node5" href="$SCF_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/SCF/Transforms\l/Bufferize.cpp" alt="" coords="637,109,829,151"/>
+<area shape="rect" id="node6" href="$Shape_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Shape/Transforms\l/Bufferize.cpp" alt="" coords="853,109,1061,151"/>
+<area shape="rect" id="node7" href="$StandardOps_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/Bufferize.cpp" alt="" coords="1085,109,1272,151"/>
+<area shape="rect" id="node8" href="$FuncBufferize_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/FuncBufferize.cpp" alt="" coords="1296,109,1512,151"/>
+<area shape="rect" id="node9" href="$TensorConstantBufferize_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/TensorConstantBufferize.cpp" alt="" coords="1537,109,1823,151"/>
+<area shape="rect" id="node10" href="$Tensor_2Transforms_2Bufferize_8cpp.html" title="lib/Dialect/Tensor\l/Transforms/Bufferize.cpp" alt="" coords="1848,109,2035,151"/>
+</map>

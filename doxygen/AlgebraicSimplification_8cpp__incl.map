@@ -1,0 +1,27 @@
+<map id="lib/Dialect/Math/Transforms/AlgebraicSimplification.cpp" name="lib/Dialect/Math/Transforms/AlgebraicSimplification.cpp">
+<area shape="rect" id="node2" href="$Arithmetic_8h.html" title="mlir/Dialect/Arithmetic\l/IR/Arithmetic.h" alt="" coords="1648,273,1819,315"/>
+<area shape="rect" id="node34" href="$Math_8h.html" title="mlir/Dialect/Math/IR\l/Math.h" alt="" coords="1009,273,1160,315"/>
+<area shape="rect" id="node37" href="$Dialect_2Math_2Transforms_2Passes_8h.html" title="mlir/Dialect/Math/Transforms\l/Passes.h" alt="" coords="236,95,447,136"/>
+<area shape="rect" id="node38" href="$VectorOps_8h.html" title="mlir/Dialect/Vector\l/VectorOps.h" alt="" coords="1377,95,1520,136"/>
+<area shape="rect" id="node40" href="$Builders_8h.html" title="mlir/IR/Builders.h" alt="" coords="2477,281,2612,307"/>
+<area shape="rect" id="node48" href="$Matchers_8h.html" title="mlir/IR/Matchers.h" alt="" coords="186,370,326,397"/>
+<area shape="rect" id="node49" href="$TypeUtilities_8h.html" title="mlir/IR/TypeUtilities.h" alt="" coords="3054,459,3216,486"/>
+<area shape="rect" id="node3" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="2034,549,2161,575"/>
+<area shape="rect" id="node9" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="1950,459,2112,486"/>
+<area shape="rect" id="node13" href="$OpImplementation_8h.html" title="mlir/IR/OpImplementation.h" alt="" coords="1080,370,1283,397"/>
+<area shape="rect" id="node25" href="$CastInterfaces_8h.html" title="mlir/Interfaces/CastInterfaces.h" alt="" coords="2398,370,2624,397"/>
+<area shape="rect" id="node27" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="2136,363,2323,404"/>
+<area shape="rect" id="node29" href="$VectorInterfaces_8h.html" title="mlir/Interfaces/VectorInterfaces.h" alt="" coords="817,370,1056,397"/>
+<area shape="rect" id="node4" href="$OperationSupport_8h.html" title="mlir/IR/OperationSupport.h" alt="" coords="2155,631,2350,657"/>
+<area shape="rect" id="node6" href="$TypeID_8h.html" title="mlir/Support/TypeID.h" alt="" coords="1814,631,1976,657"/>
+<area shape="rect" id="node10" href="$Operation_8h.html" title="mlir/IR/Operation.h" alt="" coords="2185,549,2330,575"/>
+<area shape="rect" id="node14" href="$IR_2BuiltinTypes_8h.html" title="mlir/IR/BuiltinTypes.h" alt="" coords="288,459,448,486"/>
+<area shape="rect" id="node21" href="$DialectInterface_8h.html" title="mlir/IR/DialectInterface.h" alt="" coords="1244,459,1429,486"/>
+<area shape="rect" id="node15" href="$BuiltinAttributeInterfaces_8h.html" title="mlir/IR/BuiltinAttribute\lInterfaces.h" alt="" coords="84,541,252,583"/>
+<area shape="rect" id="node18" href="$SubElementInterfaces_8h.html" title="mlir/IR/SubElementInterfaces.h" alt="" coords="750,549,974,575"/>
+<area shape="rect" id="node16" href="$IR_2AffineMap_8h.html" title="mlir/IR/AffineMap.h" alt="" coords="266,631,412,657"/>
+<area shape="rect" id="node17" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="96,631,241,657"/>
+<area shape="rect" id="node39" href="$Ops_8h.html" title="mlir/Dialect/StandardOps\l/IR/Ops.h" alt="" coords="1561,184,1746,225"/>
+<area shape="rect" id="node42" href="$PatternMatch_8h.html" title="mlir/IR/PatternMatch.h" alt="" coords="1770,191,1937,218"/>
+<area shape="rect" id="node43" href="$ViewLikeInterface_8h.html" title="mlir/Interfaces/ViewLike\lInterface.h" alt="" coords="1156,184,1336,225"/>
+</map>

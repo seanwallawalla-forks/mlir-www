@@ -1,0 +1,3 @@
+<map id="mlir::linalg::comprehensive_bufferize::scf_ext::AssertDestinationPassingStyle" name="mlir::linalg::comprehensive_bufferize::scf_ext::AssertDestinationPassingStyle">
+<area shape="rect" id="node2" href="$structmlir_1_1linalg_1_1comprehensive__bufferize_1_1PostAnalysisStep.html" title="PostAnalysisSteps can be registered with BufferizationOptions and are executed after the analysis..." alt="" coords="35,5,241,47"/>
+</map>

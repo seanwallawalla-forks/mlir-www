@@ -1,0 +1,12 @@
+<map id="lib/Parser/Lexer.h" name="lib/Parser/Lexer.h">
+<area shape="rect" id="node2" href="$ParserState_8h.html" title="lib/Parser/ParserState.h" alt="" coords="439,80,611,107"/>
+<area shape="rect" id="node11" href="$Lexer_8cpp.html" title="lib/Parser/Lexer.cpp" alt="" coords="635,80,783,107"/>
+<area shape="rect" id="node3" href="$lib_2Parser_2Parser_8h.html" title="lib/Parser/Parser.h" alt="" coords="456,155,593,181"/>
+<area shape="rect" id="node4" href="$AffineParser_8cpp.html" title="lib/Parser/AffineParser.cpp" alt="" coords="5,229,196,256"/>
+<area shape="rect" id="node5" href="$AsmParserImpl_8h.html" title="lib/Parser/AsmParserImpl.h" alt="" coords="220,229,416,256"/>
+<area shape="rect" id="node7" href="$Parser_8cpp.html" title="lib/Parser/Parser.cpp" alt="" coords="378,311,530,338"/>
+<area shape="rect" id="node8" href="$AttributeParser_8cpp.html" title="lib/Parser/AttributeParser.cpp" alt="" coords="492,229,701,256"/>
+<area shape="rect" id="node9" href="$LocationParser_8cpp.html" title="lib/Parser/LocationParser.cpp" alt="" coords="725,229,932,256"/>
+<area shape="rect" id="node10" href="$Parser_2TypeParser_8cpp.html" title="lib/Parser/TypeParser.cpp" alt="" coords="956,229,1139,256"/>
+<area shape="rect" id="node6" href="$DialectSymbolParser_8cpp.html" title="lib/Parser/DialectSymbol\lParser.cpp" alt="" coords="173,304,354,345"/>
+</map>

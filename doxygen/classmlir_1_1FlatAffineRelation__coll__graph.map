@@ -1,0 +1,8 @@
+<map id="mlir::FlatAffineRelation" name="mlir::FlatAffineRelation">
+<area shape="rect" id="node2" href="$classmlir_1_1FlatAffineValueConstraints.html" title="An extension of FlatAffineConstraints in which dimensions and symbols can optionally be associated wi..." alt="" coords="27,287,255,313"/>
+<area shape="rect" id="node3" href="$classmlir_1_1FlatAffineConstraints.html" title="A flat list of affine equalities and inequalities in the form. " alt="" coords="45,168,237,195"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Matrix.html" title="This is a class to represent a resizable matrix. " alt="" coords="5,13,103,39"/>
+<area shape="rect" id="node5" href="$classunsigned.html" title="unsigned" alt="" coords="189,13,271,39"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::Optional\&lt; mlir\l::Value \&gt;, 8 \&gt;" alt="" coords="359,153,517,209"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="364,5,512,47"/>
+</map>

@@ -1,0 +1,36 @@
+<map id="lib/Dialect/Linalg/Transforms/CodegenStrategy.cpp" name="lib/Dialect/Linalg/Transforms/CodegenStrategy.cpp">
+<area shape="rect" id="node2" href="$CodegenStrategy_8h.html" title="mlir/Dialect/Linalg\l/Transforms/CodegenStrategy.h" alt="" coords="1398,95,1622,136"/>
+<area shape="rect" id="node5" href="$Dialect_2Linalg_2Passes_8h.html" title="mlir/Dialect/Linalg\l/Passes.h" alt="" coords="1290,184,1431,225"/>
+<area shape="rect" id="node19" href="$VectorTransforms_8h.html" title="mlir/Dialect/Vector\l/VectorTransforms.h" alt="" coords="1375,363,1525,404"/>
+<area shape="rect" id="node21" href="$VectorOps_8h.html" title="mlir/Dialect/Vector\l/VectorOps.h" alt="" coords="1000,541,1143,583"/>
+<area shape="rect" id="node33" href="$PassManager_8h.html" title="mlir/Pass/PassManager.h" alt="" coords="1910,727,2091,754"/>
+<area shape="rect" id="node39" href="$Hoisting_8h.html" title="mlir/Dialect/Linalg\l/Transforms/Hoisting.h" alt="" coords="1757,95,1925,136"/>
+<area shape="rect" id="node40" href="$Dialect_2SCF_2Transforms_8h.html" title="mlir/Dialect/SCF/Transforms.h" alt="" coords="1027,809,1241,836"/>
+<area shape="rect" id="node41" href="$GreedyPatternRewriteDriver_8h.html" title="mlir/Transforms/GreedyPattern\lRewriteDriver.h" alt="" coords="499,184,721,225"/>
+<area shape="rect" id="node43" href="$LoopUtils_8h.html" title="mlir/Transforms/LoopUtils.h" alt="" coords="2167,727,2368,754"/>
+<area shape="rect" id="node45" href="$Transforms_2Passes_8h.html" title="mlir/Transforms/Passes.h" alt="" coords="2537,638,2721,665"/>
+<area shape="rect" id="node3" href="$VectorToSCF_8h.html" title="mlir/Conversion/VectorTo\lSCF/VectorToSCF.h" alt="" coords="639,363,823,404"/>
+<area shape="rect" id="node4" href="$PatternMatch_8h.html" title="mlir/IR/PatternMatch.h" alt="" coords="5,638,172,665"/>
+<area shape="rect" id="node6" href="$Dialect_2Linalg_2Transforms_2Transforms_8h.html" title="mlir/Dialect/Linalg\l/Transforms/Transforms.h" alt="" coords="1137,273,1323,315"/>
+<area shape="rect" id="node7" href="$Dialect_2Linalg_2Utils_2Utils_8h.html" title="mlir/Dialect/Linalg\l/Utils/Utils.h" alt="" coords="1159,363,1301,404"/>
+<area shape="rect" id="node29" href="$include_2mlir_2Pass_2Pass_8h.html" title="mlir/Pass/Pass.h" alt="" coords="1708,727,1835,754"/>
+<area shape="rect" id="node8" href="$Ops_8h.html" title="mlir/Dialect/StandardOps\l/IR/Ops.h" alt="" coords="248,631,433,672"/>
+<area shape="rect" id="node9" href="$IR_2BuiltinTypes_8h.html" title="mlir/IR/BuiltinTypes.h" alt="" coords="570,809,730,836"/>
+<area shape="rect" id="node10" href="$IR_2Dialect_8h.html" title="mlir/IR/Dialect.h" alt="" coords="627,884,753,911"/>
+<area shape="rect" id="node12" href="$SideEffectInterfaces_8h.html" title="mlir/Interfaces/SideEffect\lInterfaces.h" alt="" coords="197,720,383,761"/>
+<area shape="rect" id="node14" href="$VectorInterfaces_8h.html" title="mlir/Interfaces/VectorInterfaces.h" alt="" coords="560,727,799,754"/>
+<area shape="rect" id="node11" href="$OperationSupport_8h.html" title="mlir/IR/OperationSupport.h" alt="" coords="1029,959,1223,985"/>
+<area shape="rect" id="node13" href="$OpDefinition_8h.html" title="mlir/IR/OpDefinition.h" alt="" coords="322,809,485,836"/>
+<area shape="rect" id="node15" href="$IR_2AffineMap_8h.html" title="mlir/IR/AffineMap.h" alt="" coords="805,809,951,836"/>
+<area shape="rect" id="node16" href="$Support_2LLVM_8h.html" title="mlir/Support/LLVM.h" alt="" coords="2116,884,2267,911"/>
+<area shape="rect" id="node20" href="$VectorRewritePatterns_8h.html" title="mlir/Dialect/Vector\l/VectorRewritePatterns.h" alt="" coords="1106,452,1287,493"/>
+<area shape="rect" id="node28" href="$VectorUtils_8h.html" title="mlir/Dialect/Vector\l/VectorUtils.h" alt="" coords="1731,541,1873,583"/>
+<area shape="rect" id="node22" href="$Attributes_8h.html" title="mlir/IR/Attributes.h" alt="" coords="611,638,756,665"/>
+<area shape="rect" id="node23" href="$ViewLikeInterface_8h.html" title="mlir/Interfaces/ViewLike\lInterface.h" alt="" coords="981,631,1161,672"/>
+<area shape="rect" id="node30" href="$LogicalResult_8h.html" title="mlir/Support/LogicalResult.h" alt="" coords="1899,809,2103,836"/>
+<area shape="rect" id="node34" href="$Timing_8h.html" title="mlir/Support/Timing.h" alt="" coords="2127,809,2290,836"/>
+<area shape="rect" id="node42" href="$FrozenRewritePatternSet_8h.html" title="mlir/Rewrite/FrozenRewrite\lPatternSet.h" alt="" coords="371,452,567,493"/>
+<area shape="rect" id="node44" href="$Block_8h.html" title="mlir/IR/Block.h" alt="" coords="2466,809,2583,836"/>
+<area shape="rect" id="node46" href="$LocationSnapshot_8h.html" title="mlir/Transforms/Location\lSnapshot.h" alt="" coords="2392,720,2575,761"/>
+<area shape="rect" id="node47" href="$ViewOpGraph_8h.html" title="mlir/Transforms/ViewOpGraph.h" alt="" coords="2658,809,2887,836"/>
+</map>

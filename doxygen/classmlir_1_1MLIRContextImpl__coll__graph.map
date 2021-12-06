@@ -1,0 +1,19 @@
+<map id="mlir::MLIRContextImpl" name="mlir::MLIRContextImpl">
+<area shape="rect" id="node3" href="$classmlir_1_1DiagnosticEngine.html" title="This class is the main interface for diagnostics. " alt="" coords="997,85,1167,112"/>
+<area shape="rect" id="node4" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; mlir\l::TypeID, mlir::AbstractAttribute *\&gt;" alt="" coords="957,137,1207,178"/>
+<area shape="rect" id="node5" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; KeyT,\l ValueT, KeyInfoT, BucketT \&gt;" alt="" coords="456,247,667,289"/>
+<area shape="rect" id="node18" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; StringRef,\l llvm::SmallVector\&lt; StringAttr\lStorage *\&gt; \&gt;" alt="" coords="973,203,1191,259"/>
+<area shape="rect" id="node24" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; mlir\l::TypeID, mlir::AbstractType *\&gt;" alt="" coords="971,283,1193,325"/>
+<area shape="rect" id="node25" href="$classllvm_1_1DenseMap.html" title="llvm::DenseMap\&lt; StringRef,\l std::unique_ptr\&lt; mlir\l::Dialect \&gt; \&gt;" alt="" coords="979,349,1185,405"/>
+<area shape="rect" id="node6" href="$classmlir_1_1StorageUniquer.html" title="A utility class to get or create instances of &quot;storage classes&quot;. " alt="" coords="1003,429,1161,456"/>
+<area shape="rect" id="node17" href="$classmlir_1_1DebugActionManager.html" title="This class represents manages debug actions, and orchestrates the communication between action querie..." alt="" coords="985,1003,1179,1029"/>
+<area shape="rect" id="node19" href="$classllvm_1_1sys_1_1SmartMutex.html" title="llvm::sys::SmartMutex\l\&lt; true \&gt;" alt="" coords="998,1054,1166,1095"/>
+<area shape="rect" id="node20" href="$classllvm_1_1sys_1_1SmartMutex.html" title="llvm::sys::SmartMutex\l\&lt; mt_only \&gt;" alt="" coords="477,1054,645,1095"/>
+<area shape="rect" id="node28" href="$classmlir_1_1DialectRegistry.html" title="The DialectRegistry maps a dialect namespace to a constructor for the matching dialect. " alt="" coords="1005,1373,1159,1400"/>
+<area shape="rect" id="node30" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l mlir::RegisteredOperation\lName \&gt;" alt="" coords="985,1479,1179,1535"/>
+<area shape="rect" id="node31" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="487,1486,635,1527"/>
+<area shape="rect" id="node34" href="$classmlir_1_1BoolAttr.html" title="Special case of IntegerAttr to represent boolean integers, i.e., signless i1 integers. " alt="" coords="1027,1676,1137,1703"/>
+<area shape="rect" id="node35" href="$classmlir_1_1Attribute.html" title="Attributes are known&#45;constant values of operations. " alt="" coords="505,1676,618,1703"/>
+<area shape="rect" id="node36" href="$classmlir_1_1AttributeStorage.html" title="Base storage class appearing in an attribute. " alt="" coords="212,1676,375,1703"/>
+<area shape="rect" id="node37" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="5,1669,163,1710"/>
+</map>

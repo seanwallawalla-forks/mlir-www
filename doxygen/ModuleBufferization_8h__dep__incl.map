@@ -1,0 +1,4 @@
+<map id="include/mlir/Dialect/Linalg/ComprehensiveBufferize/ModuleBufferization.h" name="include/mlir/Dialect/Linalg/ComprehensiveBufferize/ModuleBufferization.h">
+<area shape="rect" id="node2" href="$ModuleBufferization_8cpp.html" title="lib/Dialect/Linalg\l/ComprehensiveBufferize\l/ModuleBufferization.cpp" alt="" coords="5,109,192,165"/>
+<area shape="rect" id="node3" href="$ComprehensiveBufferizePass_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/ComprehensiveBufferize\lPass.cpp" alt="" coords="217,109,479,165"/>
+</map>

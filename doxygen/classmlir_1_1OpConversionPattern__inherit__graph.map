@@ -1,0 +1,17 @@
+<map id="mlir::OpConversionPattern&lt; SourceOp &gt;" name="mlir::OpConversionPattern&lt; SourceOp &gt;">
+<area shape="rect" id="node5" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; Op \&gt;" alt="" coords="953,5,1147,47"/>
+<area shape="rect" id="node7" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; AssertOp \&gt;" alt="" coords="953,71,1147,112"/>
+<area shape="rect" id="node9" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; OpTy \&gt;" alt="" coords="953,136,1147,177"/>
+<area shape="rect" id="node11" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; ReturnOp \&gt;" alt="" coords="953,201,1147,243"/>
+<area shape="rect" id="node13" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; SPIRVOp \&gt;" alt="" coords="953,267,1147,308"/>
+<area shape="rect" id="node15" href="$classmlir_1_1OpConversionPattern.html" title="mlir::OpConversionPattern\l\&lt; async::YieldOp \&gt;" alt="" coords="953,332,1147,373"/>
+<area shape="rect" id="node2" href="$classmlir_1_1ConversionPattern.html" title="Base class for the conversion patterns. " alt="" coords="357,181,532,207"/>
+<area shape="rect" id="node3" href="$classmlir_1_1RewritePattern.html" title="RewritePattern is the common base class for all DAG to DAG replacements. " alt="" coords="157,181,308,207"/>
+<area shape="rect" id="node4" href="$classmlir_1_1Pattern.html" title="This class contains all of the data related to a pattern, but does not contain any methods or logic f..." alt="" coords="5,181,108,207"/>
+<area shape="rect" id="node6" href="$classmlir_1_1spirv_1_1UnaryAndBinaryOpPattern.html" title="Converts unary and binary standard operations to SPIR&#45;V operations. " alt="" coords="1202,5,1403,47"/>
+<area shape="rect" id="node8" href="$classAssertOpLowering.html" title="AssertOpLowering" alt="" coords="1233,78,1373,105"/>
+<area shape="rect" id="node10" href="$classForwardOperands.html" title="ForwardOperands\&lt; OpTy \&gt;" alt="" coords="1203,143,1402,170"/>
+<area shape="rect" id="node12" href="$classReturnOpTypeConversion.html" title="ReturnOpTypeConversion" alt="" coords="1210,209,1395,235"/>
+<area shape="rect" id="node14" href="$classmlir_1_1SPIRVToLLVMConversion.html" title="mlir::SPIRVToLLVMConversion\l\&lt; SPIRVOp \&gt;" alt="" coords="1196,267,1409,308"/>
+<area shape="rect" id="node16" href="$classYieldOpLowering.html" title="YieldOpLowering" alt="" coords="1237,339,1368,366"/>
+</map>

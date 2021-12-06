@@ -1,0 +1,7 @@
+<map id="mlir::detail::IntegerSetStorage" name="mlir::detail::IntegerSetStorage">
+<area shape="rect" id="node2" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="351,5,508,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; bool \&gt;" alt="" coords="343,71,516,98"/>
+<area shape="rect" id="node4" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; T \&gt;" alt="" coords="5,101,159,127"/>
+<area shape="rect" id="node5" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; mlir\l::AffineExpr \&gt;" alt="" coords="351,123,507,164"/>
+<area shape="rect" id="node6" href="$classunsigned.html" title="unsigned" alt="" coords="389,189,470,215"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="include/mlir/Analysis/BufferViewFlowAnalysis.h" name="include/mlir/Analysis/BufferViewFlowAnalysis.h">
+<area shape="rect" id="node2" href="$BufferUtils_8h.html" title="include/mlir/Transforms\l/BufferUtils.h" alt="" coords="547,95,722,136"/>
+<area shape="rect" id="node8" href="$BufferViewFlowAnalysis_8cpp.html" title="lib/Analysis/BufferViewFlow\lAnalysis.cpp" alt="" coords="747,95,949,136"/>
+<area shape="rect" id="node3" href="$BufferDeallocation_8cpp.html" title="lib/Dialect/Bufferization\l/Transforms/BufferDeallocation.cpp" alt="" coords="5,191,256,233"/>
+<area shape="rect" id="node4" href="$ArithInterfaceImpl_8cpp.html" title="lib/Dialect/Linalg\l/ComprehensiveBufferize\l/ArithInterfaceImpl.cpp" alt="" coords="280,184,467,240"/>
+<area shape="rect" id="node5" href="$TensorConstantBufferize_8cpp.html" title="lib/Dialect/StandardOps\l/Transforms/TensorConstantBufferize.cpp" alt="" coords="491,191,778,233"/>
+<area shape="rect" id="node6" href="$BufferOptimizations_8cpp.html" title="lib/Transforms/BufferOptimizations.cpp" alt="" coords="803,199,1077,225"/>
+<area shape="rect" id="node7" href="$BufferUtils_8cpp.html" title="lib/Transforms/BufferUtils.cpp" alt="" coords="1102,199,1317,225"/>
+</map>

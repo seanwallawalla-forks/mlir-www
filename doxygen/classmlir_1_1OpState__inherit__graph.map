@@ -1,0 +1,26 @@
+<map id="mlir::OpState" name="mlir::OpState">
+<area shape="rect" id="node2" href="$classmlir_1_1Op.html" title="This provides public APIs that all operations should have. " alt="" coords="163,307,344,348"/>
+<area shape="rect" id="node3" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineReadOpInterface \&gt;" alt="" coords="681,42,931,69"/>
+<area shape="rect" id="node7" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineMapAccess\lInterface \&gt;" alt="" coords="707,135,905,176"/>
+<area shape="rect" id="node11" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineWriteOpInterface \&gt;" alt="" coords="680,375,932,402"/>
+<area shape="rect" id="node15" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineDmaWaitOp,\l OpTrait::MemRefsNormalizable,\l OpTrait::VariadicOperands,\l OpTrait::ZeroResult, AffineMapAccess\lInterface::Trait \&gt;" alt="" coords="672,535,940,621"/>
+<area shape="rect" id="node17" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; TosaOp \&gt;" alt="" coords="731,645,881,671"/>
+<area shape="rect" id="node21" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; ConcreteType \&gt;" alt="" coords="710,249,902,275"/>
+<area shape="rect" id="node24" href="$classmlir_1_1Op.html" title="mlir::Op\&lt; AffineDmaStart\lOp, OpTrait::MemRefsNormalizable,\l OpTrait::VariadicOperands,\l OpTrait::ZeroResult, AffineMapAccessInterface::\lTrait \&gt;" alt="" coords="639,426,973,511"/>
+<area shape="rect" id="node4" href="$classmlir_1_1detail_1_1Interface.html" title="mlir::detail::Interface\l\&lt; AffineReadOpInterface,\l Operation *, detail::AffineRead\lOpInterfaceInterfaceTraits, Op\l\&lt; AffineReadOpInterface \&gt;, OpTrait\l::TraitBase \&gt;" alt="" coords="1288,5,1540,105"/>
+<area shape="rect" id="node5" href="$classmlir_1_1OpInterface.html" title="mlir::OpInterface\&lt;\l AffineReadOpInterface,\l detail::AffineReadOpInterface\lInterfaceTraits \&gt;" alt="" coords="2131,59,2348,129"/>
+<area shape="rect" id="node6" href="$classmlir_1_1AffineReadOpInterface.html" title="mlir::AffineReadOpInterface" alt="" coords="2419,81,2621,107"/>
+<area shape="rect" id="node8" href="$classmlir_1_1detail_1_1Interface.html" title="mlir::detail::Interface\l\&lt; AffineMapAccessInterface,\l Operation *, detail::AffineMapAccess\lInterfaceInterfaceTraits, Op\&lt; AffineMapAccess\lInterface \&gt;, OpTrait::TraitBase \&gt;" alt="" coords="1252,113,1576,198"/>
+<area shape="rect" id="node9" href="$classmlir_1_1OpInterface.html" title="mlir::OpInterface\&lt;\l AffineMapAccessInterface,\l detail::AffineMapAccessInterface\lInterfaceTraits \&gt;" alt="" coords="2120,200,2359,271"/>
+<area shape="rect" id="node10" href="$classmlir_1_1AffineMapAccessInterface.html" title="mlir::AffineMapAccessInterface" alt="" coords="2408,222,2632,249"/>
+<area shape="rect" id="node12" href="$classmlir_1_1detail_1_1Interface.html" title="mlir::detail::Interface\l\&lt; AffineWriteOpInterface,\l Operation *, detail::AffineWrite\lOpInterfaceInterfaceTraits, Op\l\&lt; AffineWriteOpInterface \&gt;, OpTrait\l::TraitBase \&gt;" alt="" coords="1600,368,1855,468"/>
+<area shape="rect" id="node13" href="$classmlir_1_1OpInterface.html" title="mlir::OpInterface\&lt;\l AffineWriteOpInterface,\l detail::AffineWriteOpInterface\lInterfaceTraits \&gt;" alt="" coords="2130,311,2349,381"/>
+<area shape="rect" id="node14" href="$classmlir_1_1AffineWriteOpInterface.html" title="mlir::AffineWriteOpInterface" alt="" coords="2418,333,2622,359"/>
+<area shape="rect" id="node16" href="$classmlir_1_1AffineDmaWaitOp.html" title="AffineDmaWaitOp blocks until the completion of a DMA operation associated with the tag element &#39;tag[i..." alt="" coords="1039,565,1211,591"/>
+<area shape="rect" id="node18" href="$classmlir_1_1detail_1_1Interface.html" title="mlir::detail::Interface\l\&lt; TosaOp, Operation *,\l detail::TosaOpInterfaceTraits,\l Op\&lt; TosaOp \&gt;, OpTrait::TraitBase \&gt;" alt="" coords="1285,539,1543,609"/>
+<area shape="rect" id="node19" href="$classmlir_1_1OpInterface.html" title="mlir::OpInterface\&lt;\l TosaOp, detail::TosaOpInterface\lTraits \&gt;" alt="" coords="2124,438,2355,494"/>
+<area shape="rect" id="node20" href="$classmlir_1_1tosa_1_1TosaOp.html" title="mlir::tosa::TosaOp" alt="" coords="2451,453,2589,479"/>
+<area shape="rect" id="node22" href="$classmlir_1_1detail_1_1Interface.html" title="mlir::detail::Interface\l\&lt; ConcreteType, Operation\l *, Traits, Op\&lt; ConcreteType\l \&gt;, OpTrait::TraitBase \&gt;" alt="" coords="1023,227,1228,297"/>
+<area shape="rect" id="node23" href="$classmlir_1_1OpInterface.html" title="This class represents the base of an operation interface. " alt="" coords="1641,241,1813,283"/>
+<area shape="rect" id="node25" href="$classmlir_1_1AffineDmaStartOp.html" title="AffineDmaStartOp starts a non&#45;blocking DMA operation that transfers data from a source memref to a de..." alt="" coords="1038,455,1213,482"/>
+</map>

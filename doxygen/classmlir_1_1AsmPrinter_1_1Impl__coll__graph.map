@@ -1,0 +1,5 @@
+<map id="mlir::AsmPrinter::Impl" name="mlir::AsmPrinter::Impl">
+<area shape="rect" id="node2" title="This class is a simple formatter that emits a new line when inputted into a stream, that enables counting the number of newlines emitted. " alt="" coords="5,5,161,32"/>
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1AsmStateImpl.html" title="mlir::detail::AsmStateImpl" alt="" coords="185,5,379,32"/>
+<area shape="rect" id="node4" href="$classmlir_1_1OpPrintingFlags.html" title="Set of flags used to control the behavior of the various IR print methods (e.g. " alt="" coords="403,5,561,32"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="mlir::MemRefRegion" name="mlir::MemRefRegion">
+<area shape="rect" id="node2" href="$classmlir_1_1Value.html" title="This class represents an instance of an SSA value in the MLIR system, representing a computable value..." alt="" coords="1304,82,1396,109"/>
+<area shape="rect" id="node3" href="$classmlir_1_1detail_1_1ValueImpl.html" title="The base class for all derived Value classes. " alt="" coords="961,78,1127,105"/>
+<area shape="rect" id="node4" href="$classmlir_1_1IRObjectWithUseList.html" title="mlir::IRObjectWithUseList\l\&lt; OpOperand \&gt;" alt="" coords="557,5,747,47"/>
+<area shape="rect" id="node5" href="$classmlir_1_1IRObjectWithUseList.html" title="This class represents a single IR object that contains a use list. " alt="" coords="212,5,401,47"/>
+<area shape="rect" id="node7" href="$classmlir_1_1Location.html" title="This class defines the main interface for locations in MLIR and acts as a non&#45;nullable wrapper around..." alt="" coords="1295,137,1405,163"/>
+<area shape="rect" id="node8" href="$classmlir_1_1LocationAttr.html" title="Location objects represent source locations information in MLIR. " alt="" coords="977,137,1111,163"/>
+<area shape="rect" id="node9" href="$classmlir_1_1Attribute.html" title="Attributes are known&#45;constant values of operations. " alt="" coords="595,137,709,163"/>
+<area shape="rect" id="node10" href="$classmlir_1_1AttributeStorage.html" title="Base storage class appearing in an attribute. " alt="" coords="225,137,388,163"/>
+<area shape="rect" id="node11" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="5,129,163,171"/>
+<area shape="rect" id="node13" href="$classmlir_1_1FlatAffineValueConstraints.html" title="An extension of FlatAffineConstraints in which dimensions and symbols can optionally be associated wi..." alt="" coords="1236,254,1464,281"/>
+<area shape="rect" id="node14" href="$classmlir_1_1FlatAffineConstraints.html" title="A flat list of affine equalities and inequalities in the form. " alt="" coords="948,254,1140,281"/>
+<area shape="rect" id="node15" href="$classmlir_1_1Matrix.html" title="This is a class to represent a resizable matrix. " alt="" coords="603,187,701,214"/>
+<area shape="rect" id="node16" href="$classunsigned.html" title="unsigned" alt="" coords="611,277,693,303"/>
+<area shape="rect" id="node17" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l llvm::Optional\&lt; mlir\l::Value \&gt;, 8 \&gt;" alt="" coords="965,313,1123,369"/>
+<area shape="rect" id="node18" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="578,329,726,371"/>
+</map>

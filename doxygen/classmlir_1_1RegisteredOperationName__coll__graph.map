@@ -1,0 +1,10 @@
+<map id="mlir::RegisteredOperationName" name="mlir::RegisteredOperationName">
+<area shape="rect" id="node2" href="$classmlir_1_1OperationName.html" title="mlir::OperationName" alt="" coords="1109,399,1268,425"/>
+<area shape="rect" id="node3" href="$structmlir_1_1OperationName_1_1Impl.html" title="This class represents a type erased version of an operation. " alt="" coords="788,355,947,397"/>
+<area shape="rect" id="node6" href="$classmlir_1_1TypeID.html" title="This class provides an efficient unique identifier for a specific C++ type. " alt="" coords="371,157,471,184"/>
+<area shape="rect" id="node10" href="$classmlir_1_1detail_1_1InterfaceMap.html" title="This class provides an efficient mapping between a given Interface type, and a particular implementat..." alt="" coords="328,421,515,448"/>
+<area shape="rect" id="node11" href="$classmlir_1_1Dialect.html" title="Dialects are groups of MLIR operations, types and attributes, as well as behavior associated with the..." alt="" coords="370,472,473,499"/>
+<area shape="rect" id="node14" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; StringAttr \&gt;" alt="" coords="318,683,525,709"/>
+<area shape="rect" id="node15" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; T \&gt;" alt="" coords="5,683,159,709"/>
+<area shape="rect" id="node16" href="$classfriend.html" title="friend" alt="" coords="837,421,897,448"/>
+</map>

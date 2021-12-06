@@ -1,0 +1,4 @@
+<map id="mlir::FlatAffineRelation" name="mlir::FlatAffineRelation">
+<area shape="rect" id="node2" href="$classmlir_1_1FlatAffineValueConstraints.html" title="An extension of FlatAffineConstraints in which dimensions and symbols can optionally be associated wi..." alt="" coords="5,80,233,107"/>
+<area shape="rect" id="node3" href="$classmlir_1_1FlatAffineConstraints.html" title="A flat list of affine equalities and inequalities in the form. " alt="" coords="23,5,215,32"/>
+</map>

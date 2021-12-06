@@ -1,0 +1,4 @@
+<map id="mlir::linalg::comprehensive_bufferize::linalg_ext::InsertSliceAnchoredInitTensorEliminationStep" name="mlir::linalg::comprehensive_bufferize::linalg_ext::InsertSliceAnchoredInitTensorEliminationStep">
+<area shape="rect" id="node2" href="$structmlir_1_1linalg_1_1comprehensive__bufferize_1_1linalg__ext_1_1InitTensorEliminationStep.html" title="mlir::linalg::comprehensive\l_bufferize::linalg_ext::\lInitTensorEliminationStep" alt="" coords="64,95,264,151"/>
+<area shape="rect" id="node3" href="$structmlir_1_1linalg_1_1comprehensive__bufferize_1_1PostAnalysisStep.html" title="PostAnalysisSteps can be registered with BufferizationOptions and are executed after the analysis..." alt="" coords="61,5,267,47"/>
+</map>

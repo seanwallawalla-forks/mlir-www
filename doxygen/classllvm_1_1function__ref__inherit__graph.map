@@ -1,0 +1,7 @@
+<map id="llvm::function_ref&lt; Fn &gt;" name="llvm::function_ref&lt; Fn &gt;">
+<area shape="rect" id="node2" href="$classllvm_1_1function__ref.html" title="llvm::function_ref\l\&lt; ShapeAdaptor(Value)\&gt;" alt="" coords="423,5,608,47"/>
+<area shape="rect" id="node3" href="$classllvm_1_1function__ref.html" title="llvm::function_ref\l\&lt; mlir::LogicalResult\l(mlir::ModuleOp)\&gt;" alt="" coords="437,71,594,127"/>
+<area shape="rect" id="node4" href="$classllvm_1_1function__ref.html" title="llvm::function_ref\l\&lt; void(mlir::Diagnostic &amp;)\&gt;" alt="" coords="414,152,617,193"/>
+<area shape="rect" id="node5" href="$classllvm_1_1function__ref.html" title="llvm::function_ref\l\&lt; llvm::orc::SymbolMap\l(llvm::orc::MangleAndInterner)\&gt;" alt="" coords="400,218,631,274"/>
+<area shape="rect" id="node6" href="$classllvm_1_1function__ref.html" title="llvm::function_ref\l\&lt; mlir::LogicalResult\l(mlir::OpPassManager &amp;,\l mlir::Operation *)\&gt;" alt="" coords="424,299,607,369"/>
+</map>

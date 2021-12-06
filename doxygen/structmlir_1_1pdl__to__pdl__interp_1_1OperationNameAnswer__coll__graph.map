@@ -1,0 +1,15 @@
+<map id="mlir::pdl_to_pdl_interp::OperationNameAnswer" name="mlir::pdl_to_pdl_interp::OperationNameAnswer">
+<area shape="rect" id="node2" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title="mlir::pdl_to_pdl_interp\l::PredicateBase\&lt; OperationName\lAnswer, Qualifier, OperationName,\l Predicates::OperationNameAnswer \&gt;" alt="" coords="1612,365,1880,435"/>
+<area shape="rect" id="node3" href="$classmlir_1_1pdl__to__pdl__interp_1_1Qualifier.html" title="An ordinal predicate consists of a &quot;Question&quot; and a set of acceptable &quot;Answers&quot; (later converted to o..." alt="" coords="1129,313,1297,354"/>
+<area shape="rect" id="node4" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="789,305,946,346"/>
+<area shape="rect" id="node5" href="$classmlir_1_1OperationName.html" title="mlir::OperationName" alt="" coords="1134,387,1293,413"/>
+<area shape="rect" id="node6" href="$structmlir_1_1OperationName_1_1Impl.html" title="This class represents a type erased version of an operation. " alt="" coords="788,370,947,411"/>
+<area shape="rect" id="node9" href="$classmlir_1_1TypeID.html" title="This class provides an efficient unique identifier for a specific C++ type. " alt="" coords="371,172,471,199"/>
+<area shape="rect" id="node13" href="$classmlir_1_1detail_1_1InterfaceMap.html" title="This class provides an efficient mapping between a given Interface type, and a particular implementat..." alt="" coords="328,436,515,463"/>
+<area shape="rect" id="node14" href="$classmlir_1_1Dialect.html" title="Dialects are groups of MLIR operations, types and attributes, as well as behavior associated with the..." alt="" coords="370,487,473,513"/>
+<area shape="rect" id="node17" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; StringAttr \&gt;" alt="" coords="318,697,525,724"/>
+<area shape="rect" id="node18" href="$classllvm_1_1ArrayRef.html" title="llvm::ArrayRef\&lt; T \&gt;" alt="" coords="5,697,159,724"/>
+<area shape="rect" id="node19" href="$classfriend.html" title="friend" alt="" coords="837,436,897,463"/>
+<area shape="rect" id="node20" href="$classmlir_1_1pdl__to__pdl__interp_1_1PredicateBase.html" title="Base class for all predicates, used to allow efficient pointer comparison. " alt="" coords="1109,472,1317,528"/>
+<area shape="rect" id="node21" href="$classBaseT.html" title="BaseT" alt="" coords="836,487,899,513"/>
+</map>

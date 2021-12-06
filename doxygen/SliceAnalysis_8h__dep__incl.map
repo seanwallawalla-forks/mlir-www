@@ -1,0 +1,15 @@
+<map id="include/mlir/Analysis/SliceAnalysis.h" name="include/mlir/Analysis/SliceAnalysis.h">
+<area shape="rect" id="node2" href="$AffineAnalysis_8cpp.html" title="lib/Analysis/AffineAnalysis.cpp" alt="" coords="5,109,227,136"/>
+<area shape="rect" id="node3" href="$LoopAnalysis_8cpp.html" title="lib/Analysis/LoopAnalysis.cpp" alt="" coords="251,109,466,136"/>
+<area shape="rect" id="node4" href="$SliceAnalysis_8cpp.html" title="lib/Analysis/SliceAnalysis.cpp" alt="" coords="490,109,705,136"/>
+<area shape="rect" id="node5" href="$VectorToGPU_8cpp.html" title="lib/Conversion/VectorToGPU\l/VectorToGPU.cpp" alt="" coords="729,102,932,143"/>
+<area shape="rect" id="node6" href="$AffineLoopInvariantCodeMotion_8cpp.html" title="lib/Dialect/Affine\l/Transforms/AffineLoopInvariant\lCodeMotion.cpp" alt="" coords="956,95,1185,151"/>
+<area shape="rect" id="node7" href="$FusionOnTensors_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/FusionOnTensors.cpp" alt="" coords="1209,102,1447,143"/>
+<area shape="rect" id="node8" href="$Hoisting_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Hoisting.cpp" alt="" coords="1471,102,1654,143"/>
+<area shape="rect" id="node9" href="$HoistPadding_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/HoistPadding.cpp" alt="" coords="1678,102,1893,143"/>
+<area shape="rect" id="node10" href="$LinalgStrategyPasses_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/LinalgStrategy\lPasses.cpp" alt="" coords="1917,95,2113,151"/>
+<area shape="rect" id="node11" href="$Vectorization_8cpp.html" title="lib/Dialect/Linalg\l/Transforms/Vectorization.cpp" alt="" coords="2137,102,2351,143"/>
+<area shape="rect" id="node12" href="$Dialect_2Linalg_2Utils_2Utils_8cpp.html" title="lib/Dialect/Linalg\l/Utils/Utils.cpp" alt="" coords="2376,102,2507,143"/>
+<area shape="rect" id="node13" href="$LoopFusionUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopFusionUtils.cpp" alt="" coords="2531,102,2685,143"/>
+<area shape="rect" id="node14" href="$LoopUtils_8cpp.html" title="lib/Transforms/Utils\l/LoopUtils.cpp" alt="" coords="2710,102,2858,143"/>
+</map>

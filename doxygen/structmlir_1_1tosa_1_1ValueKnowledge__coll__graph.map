@@ -1,0 +1,7 @@
+<map id="mlir::tosa::ValueKnowledge" name="mlir::tosa::ValueKnowledge">
+<area shape="rect" id="node2" href="$classmlir_1_1Type.html" title="Instances of the Type class are uniqued, have an immutable identifier and an optional mutable compone..." alt="" coords="41,207,127,234"/>
+<area shape="rect" id="node3" href="$classmlir_1_1TypeStorage.html" title="Base storage class appearing in a Type. " alt="" coords="16,103,152,130"/>
+<area shape="rect" id="node4" href="$classmlir_1_1StorageUniquer_1_1BaseStorage.html" title="This class acts as the base storage that all storage classes must derived from. " alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node6" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l int64_t \&gt;" alt="" coords="227,200,375,241"/>
+<area shape="rect" id="node7" href="$classllvm_1_1SmallVector.html" title="llvm::SmallVector\&lt;\l T, N \&gt;" alt="" coords="227,96,375,137"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="mlir::tblgen::ClassDeclarationBase&lt; DeclKind &gt;" name="mlir::tblgen::ClassDeclarationBase&lt; DeclKind &gt;">
+<area shape="rect" id="node3" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="mlir::tblgen::ClassDeclaration\lBase\&lt; ClassDeclaration::Field \&gt;" alt="" coords="741,6,973,47"/>
+<area shape="rect" id="node5" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="mlir::tblgen::ClassDeclaration\lBase\&lt; ClassDeclaration::UsingDeclaration \&gt;" alt="" coords="700,71,1015,113"/>
+<area shape="rect" id="node7" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="mlir::tblgen::ClassDeclaration\lBase\&lt; ClassDeclaration::Method \&gt;" alt="" coords="732,137,983,178"/>
+<area shape="rect" id="node10" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="mlir::tblgen::ClassDeclaration\lBase\&lt; ClassDeclaration::ExtraClass\lDeclaration \&gt;" alt="" coords="729,203,985,259"/>
+<area shape="rect" id="node12" href="$classmlir_1_1tblgen_1_1ClassDeclarationBase.html" title="mlir::tblgen::ClassDeclaration\lBase\&lt; ClassDeclaration::Visibility\lDeclaration \&gt;" alt="" coords="735,283,979,339"/>
+<area shape="rect" id="node2" href="$classmlir_1_1tblgen_1_1ClassDeclaration.html" title="A class declaration is a class element that appears as part of its declaration. " alt="" coords="5,144,220,171"/>
+<area shape="rect" id="node4" href="$classmlir_1_1tblgen_1_1Field.html" title="This class describes a class field. " alt="" coords="1105,13,1240,40"/>
+<area shape="rect" id="node6" href="$classmlir_1_1tblgen_1_1UsingDeclaration.html" title="This class describes a using&#45;declaration for a class. " alt="" coords="1064,79,1281,105"/>
+<area shape="rect" id="node8" href="$classmlir_1_1tblgen_1_1Method.html" title="Class for holding an op&#39;s method for C++ code emission. " alt="" coords="1096,144,1249,171"/>
+<area shape="rect" id="node9" href="$classmlir_1_1tblgen_1_1Constructor.html" title="mlir::tblgen::Constructor" alt="" coords="1331,144,1511,171"/>
+<area shape="rect" id="node11" href="$classmlir_1_1tblgen_1_1ExtraClassDeclaration.html" title="Unstructured extra class declarations, from TableGen definitions. " alt="" coords="1085,210,1260,251"/>
+<area shape="rect" id="node13" href="$classmlir_1_1tblgen_1_1VisibilityDeclaration.html" title="A declaration for the visibility of subsequent declarations. " alt="" coords="1091,290,1254,331"/>
+</map>
